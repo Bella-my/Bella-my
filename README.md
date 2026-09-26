@@ -92,8 +92,3 @@ Aberta a oportunidades de **Desenvolvedora Backend Júnior** — entre em contat
 </div>
 
 <br>
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=110&section=footer&animation=fadeIn&reversal=true" width="100%" alt="footer"/>
-</div>
