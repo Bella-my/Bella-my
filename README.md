@@ -79,7 +79,6 @@ Aberta a oportunidades de **Desenvolvedora Backend Júnior** — entre em contat
 
 <br>
 
-<a href="https://github.com/Bella-my" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <a href="https://www.linkedin.com/in/ana-airotiv-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://wa.me/5511917161671" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=annabela.oliver@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
@@ -93,8 +92,3 @@ Aberta a oportunidades de **Desenvolvedora Backend Júnior** — entre em contat
 </div>
 
 <br>
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=110&section=footer&animation=fadeIn&reversal=true" width="100%" alt="footer"/>
-</div>
